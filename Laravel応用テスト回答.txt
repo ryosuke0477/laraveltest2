@@ -1,0 +1,13 @@
+Laravle応用テスト
+
+①DBクラス
+②クエリビルダー
+③Eloquent
+④モデル
+⑤Create
+⑥Read
+⑦Update
+⑧.env
+⑨マイグレーション
+⑩シーティング
+
